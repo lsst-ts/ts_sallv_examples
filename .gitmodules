@@ -1,0 +1,4 @@
+[submodule "ts_sallv_exa"]
+	path = ts_sallv_exa
+	url = https://aanania@stash.lsstcorp.org/scm/ts/ts_sallv_exa.git
+	branch = master
