@@ -19,6 +19,11 @@
 				<Item Name="command_publisher2.vi" Type="VI" URL="../command_publisher2.vi"/>
 				<Item Name="command_subscriber2.vi" Type="VI" URL="../command_subscriber2.vi"/>
 			</Item>
+			<Item Name="Example 3" Type="Folder">
+				<Item Name="event_publisher.vi" Type="VI" URL="../event_publisher.vi"/>
+				<Item Name="event_subscriber.vi" Type="VI" URL="../event_subscriber.vi"/>
+			</Item>
+			<Item Name="states.ctl" Type="VI" URL="../states.ctl"/>
 		</Item>
 		<Item Name="SALLV_EXA.lvlib" Type="Library" URL="../ts_sallv_exa/SALLV_EXA.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
