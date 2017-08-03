@@ -11,9 +11,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Projects" Type="Folder">
-			<Item Name="Example1" Type="Folder">
+			<Item Name="Example 1" Type="Folder">
 				<Item Name="command_publisher.vi" Type="VI" URL="../command_publisher.vi"/>
 				<Item Name="command_subscriber.vi" Type="VI" URL="../command_subscriber.vi"/>
+			</Item>
+			<Item Name="Example 2" Type="Folder">
+				<Item Name="command_publisher2.vi" Type="VI" URL="../command_publisher2.vi"/>
+				<Item Name="command_subscriber2.vi" Type="VI" URL="../command_subscriber2.vi"/>
 			</Item>
 		</Item>
 		<Item Name="SALLV_EXA.lvlib" Type="Library" URL="../ts_sallv_exa/SALLV_EXA.lvlib"/>
