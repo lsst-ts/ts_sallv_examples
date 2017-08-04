@@ -23,6 +23,18 @@
 				<Item Name="event_publisher.vi" Type="VI" URL="../event_publisher.vi"/>
 				<Item Name="event_subscriber.vi" Type="VI" URL="../event_subscriber.vi"/>
 			</Item>
+			<Item Name="Example 4" Type="Folder">
+				<Item Name="event_publisher2.vi" Type="VI" URL="../event_publisher2.vi"/>
+				<Item Name="event_subscriber2.vi" Type="VI" URL="../event_subscriber2.vi"/>
+			</Item>
+			<Item Name="Example 5" Type="Folder">
+				<Item Name="telemetry_publisher.vi" Type="VI" URL="../telemetry_publisher.vi"/>
+				<Item Name="telemetry_subscriber.vi" Type="VI" URL="../telemetry_subscriber.vi"/>
+			</Item>
+			<Item Name="Example 6" Type="Folder">
+				<Item Name="telemetry_publisher2.vi" Type="VI" URL="../telemetry_publisher2.vi"/>
+				<Item Name="telemetry_subscriber2.vi" Type="VI" URL="../telemetry_subscriber2.vi"/>
+			</Item>
 			<Item Name="states.ctl" Type="VI" URL="../states.ctl"/>
 		</Item>
 		<Item Name="SALLV_EXA.lvlib" Type="Library" URL="../ts_sallv_exa/SALLV_EXA.lvlib"/>
